@@ -1,3 +1,7 @@
 [submodule "itra-course-proj-client"]
 	path = itra-course-proj-client
 	url = https://github.com/DefK1lla/itra-course-proj-client
+
+[submodule "itra-course-proj-server"]
+	path = itra-course-proj-client
+	url = https://github.com/DefK1lla/itra-course-proj-server
