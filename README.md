@@ -1,7 +1,7 @@
 ﻿# itra-course-project
 Превью: https://mern-collections.herokuapp.com/  
  
-Stack: React.js, Express.js, MongoDB, Node.js  
+Stack: MongoDB, Express.js, React.js, Node.js (MERN)  
 Подробнее про фронтенд: https://github.com/DefK1lla/itra-course-proj-client    
 Подробнее про бэкенд: https://github.com/DefK1lla/itra-course-proj-server    
   
