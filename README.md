@@ -1,4 +1,7 @@
 ﻿# itra-course-project
+  
+Итоговый проект бесплатного курса от компании iTransition.  
+  
 Превью: https://mern-collections.herokuapp.com/  
  
 Stack: MongoDB, Express.js, React.js, Node.js (MERN)  
